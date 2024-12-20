@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyListView</string>
+    <string name="exit_menu">Exit</string>
+    <string name="save_button">Сохранить</string>
+</resources>
